@@ -12,13 +12,21 @@ How does attrition differ across departments?
 
 ## Key Findings
 I found that 68% of employees who resigned earned below 5K — meaning the company could reduce attrition by 35% with a targeted salary revision for bottom-band employees.
+
 What happened?
+
 237 employees left, 16.1% attrition rate
+
 Why did it happen?
+
 Low salary band + age 26-35 group
+
 What will happen?
+
 High risk of further attrition in the Lab Technician role
+
 What should be done?
+
 Prioritize salary revision for under-5K employees in technical roles
 ## Dashboard Features
 
